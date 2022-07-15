@@ -4,9 +4,8 @@ import com.project.product.dao.ProductDAO;
 import com.project.product.dao.ProductDAOImpl;
 import com.project.product.dto.Product;
 import org.junit.Assert;
-import org.junit.Ignore;
 import org.junit.Test;
-import org.junit.Assert.*;
+
 /**
  * Created by Hector on 6/9/22.
  */

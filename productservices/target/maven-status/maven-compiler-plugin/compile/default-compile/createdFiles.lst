@@ -1,6 +1,0 @@
-com/project/product/dto/Product.class
-com/project/product/dao/ProductDAOImpl.class
-com/project/product/bo/ProductBOImpl.class
-com/project/product/dao/ProductDAO.class
-com/project/product/App.class
-com/project/product/bo/ProductBO.class
